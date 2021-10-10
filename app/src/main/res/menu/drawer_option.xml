@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_baseline_share_24"
+            android:id="@+id/share"
+            android:title="Share" />
+        <item
+            android:icon="@drawable/ic_baseline_feedback_24"
+            android:id="@+id/feedback"
+            android:title="Feedback" />
+        <item
+            android:icon="@drawable/ic_baseline_info_24"
+            android:id="@+id/about"
+            android:title="About" />
+
+        <item
+            android:icon="@drawable/ic_baseline_help_24"
+            android:id="@+id/help"
+            android:title="Help" />
+        <item
+            android:icon="@drawable/ic_baseline_help_24"
+            android:id="@+id/privacy"
+            android:title="Privacy Policy" />
+
+    </group>
+
+</menu>
